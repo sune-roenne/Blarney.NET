@@ -1,4 +1,5 @@
-using Blarney.UI.Components;
+
+using Blarney.UI.Pages;
 
 var builder = WebApplication.CreateBuilder(args);
 

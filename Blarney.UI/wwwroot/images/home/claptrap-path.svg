@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="15.5833in" height="12in"
+     viewBox="0 0 1122 864">
+  <path id="ClapTrapPath"
+        fill="none" stroke="black" stroke-width="1"
+        d="M 744.67,579.33
+           C 744.67,579.33 936.00,506.67 936.00,506.67
+             936.00,506.67 1086.00,661.50 1086.00,661.50
+             1086.00,661.50 972.00,862.67 972.00,862.67
+             972.00,862.67 740.00,806.67 740.00,806.67
+             740.00,806.67 744.67,579.33 744.67,579.33 Z" />
+</svg>
