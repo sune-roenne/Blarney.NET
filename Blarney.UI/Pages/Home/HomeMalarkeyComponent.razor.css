@@ -20,12 +20,12 @@
     position: absolute;
     width: 300px;
     height:150px;
-    left:130px;
-    top:530px;
+    left:120px;
+    top:30px;
     background-image: url('images/home/malarkey-logo.webp');
     background-repeat: no-repeat;
     background-size: contain;
     z-index: 900;
     filter: brightness(200%);
-    transform: rotate(-10deg);
+    transform: rotate(-10deg) scale(0.7);
 }

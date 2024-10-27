@@ -5,7 +5,7 @@
 
 .blarney-home-claptrap-svg-path {
     position: relative;
-    z-index: 1000;
+    z-index: 2000;
     fill: transparent;
     cursor: pointer;
     fill: rgba(255,255,255,0.2);
@@ -20,12 +20,12 @@
     position: absolute;
     width: 200px;
     height:100px;
-    left:770px;
-    top:630px;
+    left:-20px;
+    top:40px;
     background-image: url('images/home/claptrap-logo.webp');
     background-repeat: no-repeat;
     background-size: contain;
     z-index: 900;
     filter: brightness(200%);
-    transform: rotate(-10deg);
+    transform: rotate(-10deg) scale(0.5);
 }
